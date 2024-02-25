@@ -9,4 +9,10 @@ $(document).ready(function () {
         nextArrow:"<button type='button' class='btn-slick-next btn btn-slider'><img src='img/right.slider.svg' alt='next'></button>",
 
     });
+
+    $(".mobile-menu").click(function(){
+        $(".mobile-menu span").toggleClass('activ');
+        $(".menu").toggleClass('activ');
+        $("body").toggleClass('owerlay');
+    })
 });
