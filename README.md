@@ -1,2 +1,2 @@
 
-https://Motokissa.github.io/Travalent/
+https://ValentinaShyshko.github.io/Travalent/
